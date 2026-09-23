@@ -262,3 +262,24 @@ Then submit the GitHub repository link as instructed.
 - [Python Downloads](https://www.python.org/downloads/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [GitHub SSH Setup Guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+
+
+
+# Module 3 Interactive Calculator
+
+## Overview
+
+This project is an interactive command-line calculator written in Python. It builds on the calculator from Module 2 by introducing object-oriented programming, parameterized testing, test coverage, and continuous integration with GitHub Actions.
+
+The calculator supports addition, subtraction, multiplication, and division through an `Operations` class that uses `@staticmethod` methods.
+
+## Features
+
+* Interactive REPL command-line interface
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Error handling for invalid input
+* Error handling for di
